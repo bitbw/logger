@@ -1,0 +1,14 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "exports": {
+    "import": "./esm/logger.js",
+    "require": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
